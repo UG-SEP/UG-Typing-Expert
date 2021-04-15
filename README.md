@@ -13,7 +13,7 @@
 ## 1. 1 min Test 😃 
 ## 2. 1.4 min Test 😃
 ## 3. Bird Life 🐤🐦🦜
-## 4. Kill Word 😲
+## 4. Kill Words 😲
 ## 5. Leaderboard 🥇🥇🥈🥈
 ## 6. Credits 💳
 # Pics
