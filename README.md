@@ -31,6 +31,6 @@ Show your 💖 by Staring Some of My Repo and by following🙂 me.
 
 ## [Watch Video on Youtube](https://youtu.be/F-55d7TX-aM)
 
-## **_Note_** : Read How to Download Before Use
+## **_Note_** : [Read How to Download Before Use](https://github.com/UG-SEP/UG-Typing-Expert/blob/UG/How%20to%20download.txt)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
