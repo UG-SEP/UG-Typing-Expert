@@ -9,7 +9,7 @@
 ## _What is this_ ❓❓
 ### This is a Desktop app in which you can test you typing speed and there are few games related to typing.And the most enjoyable thing is that you can see leaderboard the help you know your status..
 
- ## Features provided in _UG Typing Expert_ 😀
+## Features provided in _UG Typing Expert_ 😀
 ## 1. 1 min Test 😃 
 ## 2. 1.4 min Test 😃
 ## 3. Bird Life 🐤🐦🦜
