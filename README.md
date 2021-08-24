@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Status-Beta-red.svg)
 ![](https://img.shields.io/badge/Version-CodeBlocks_20.03-red.svg)
 ![](https://img.shields.io/badge/Version-1.00.00.1-blue.svg)
-# 😮UG Typing Expert😮
+# 🤩UG Typing Expert🤩
 ## _What is this_ ❓❓
 ### This is a Desktop app in which you can test you typing speed and there are few games related to typing.And the most enjoyable thing is that you can see leaderboard the help you know your status..
 
